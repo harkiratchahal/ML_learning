@@ -21,5 +21,25 @@ This specialization covers foundational concepts in machine learning, data scien
 
 ---
 
-## 📂 Repository Structure
+
+> ✅ Each notebook contains code implementations, explanations, and visualizations based on course lectures and labs.
+
+---
+
+## 🧠 What I’m Learning
+
+- 🔢 Mathematical foundations of ML
+- 📊 Visualizing and interpreting data
+- 🤖 Implementing ML algorithms from scratch
+- 🧪 Using tools like `NumPy`, `Pandas`, `matplotlib`, and `scikit-learn`
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/ML-AndrewNg-Journey.git
+
+
 
